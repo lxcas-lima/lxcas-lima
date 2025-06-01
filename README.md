@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Lima
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back - End`**
 
  meu nome é Lucas Lima, tenho 22 anos e sou estudante de Análise e Desenvolvimento de
  Sistemas.
